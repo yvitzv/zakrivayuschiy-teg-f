@@ -277,8 +277,8 @@ dialog::backdrop {
 }
 
 .dialog__floppy {
-  width: 1em;
-  height: 1em;
+  width: 39px; 
+  height: 39px; 
   fill: currentColor;
 }
 
